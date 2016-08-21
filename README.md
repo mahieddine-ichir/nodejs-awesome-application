@@ -1,4 +1,4 @@
-# Description
+# nodejs-awesome-application
 An Express JS / NodeJS startup application.
 
 # Application startup
@@ -62,4 +62,3 @@ Use
 res.json({'key0': 'value0', 'key0': 'value0'});
 ```
 to return json formatted data for example.
-
